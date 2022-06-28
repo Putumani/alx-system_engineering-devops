@@ -1,0 +1,1 @@
+This is where everything concern with shell variables expansions dwells.
